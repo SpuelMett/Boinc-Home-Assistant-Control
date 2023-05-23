@@ -1,0 +1,5 @@
+# Flask==2.3.2
+flask[async]~=2.3.2
+waitress
+setuptools==67.7.2
+apscheduler~=3.10.1

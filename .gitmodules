@@ -1,0 +1,3 @@
+[submodule "libs/pyboinc"]
+	path = libs/pyboinc
+	url = https://github.com/SpuelMett/pyboinc.git
