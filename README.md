@@ -4,7 +4,10 @@ This project lets you start and stop Boinc from home assistant. This can be used
 
 This project uses PyBoinc from Nielstron which can be found [here](https://github.com/nielstron/pyboinc/tree/dev/pyboinc).
 
-Does it work?
+Another similar project is https://github.com/tylercamp/boinc-client-control It uses dotnet and also provides rest endpoints that can be used in Home assistant.
+I am also working on a custom integration for Home assistant so that it will be even easier to use and to setup. (A link will follow her if its done)
+
+Does this project work?
 At least for me :) If you have questions or need some help let me know.
 
 Is it safe to use? 
