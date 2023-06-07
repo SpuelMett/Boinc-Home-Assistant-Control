@@ -1,11 +1,15 @@
 # Boinc Home Assistant Control
 
+:exclamation::exclamation::exclamation:
+An improved home assistant control for boinc can now be found [here](https://github.com/SpuelMett/Boinc-Home-Assistant-Integration).
+It works directly in home assistant and doesnt need any rest calls or endpoints anymore.
+:exclamation::exclamation::exclamation:
+
 This project lets you start and stop Boinc from home assistant. This can be used for example to run Boinc only on solar energy.
 
 This project uses PyBoinc from Nielstron which can be found [here](https://github.com/nielstron/pyboinc/tree/dev/pyboinc).
 
-Another similar project is https://github.com/tylercamp/boinc-client-control It uses dotnet and also provides rest endpoints that can be used in Home assistant.
-I am also working on a custom integration for Home assistant so that it will be even easier to use and to setup. (A link will follow her if its done)
+Another similar project is https://github.com/tylercamp/boinc-client-control. It uses dotnet and also provides rest endpoints that can be used in Home assistant.
 
 Does this project work?
 At least for me :) If you have questions or need some help let me know.
